@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "currency-converter-byzibs": "^1.0.0",
     "inquirer": "^9.2.18"
   },
   "devDependencies": {
